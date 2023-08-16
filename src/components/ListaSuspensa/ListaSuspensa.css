@@ -1,0 +1,19 @@
+.lista-suspensa{
+
+}
+
+.lista-suspensa select{
+    background-color: #FFFFFF;
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.lista-suspensa label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}

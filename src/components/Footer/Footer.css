@@ -1,0 +1,26 @@
+.rodape{
+    background-color: #6278F7;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10vw ;
+}
+
+.rodape nav{
+    display: flex;
+    gap: 32px;
+}
+
+.rodape nav a img{
+    width: 25px;
+    cursor: pointer;
+}
+
+.rodape img{
+    width: 170px;
+}
+
+.rodape p{
+    color: #FFFFFF;
+}
